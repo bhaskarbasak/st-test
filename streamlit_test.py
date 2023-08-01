@@ -1,8 +1,6 @@
 import streamlit as st
 #import docx
 import docxtpl
-import os.path
-import pathlib
 import pandas as pd
 from docxtpl import DocxTemplate
 import zipfile
